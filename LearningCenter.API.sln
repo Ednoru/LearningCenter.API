@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning Center API", "Learning Center API\Learning Center API.csproj", "{C23836CD-8551-4CDB-A21B-538460BDAC35}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningCenter.API", "LearningCenter.API\LearningCenter.API.csproj", "{C23836CD-8551-4CDB-A21B-538460BDAC35}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
